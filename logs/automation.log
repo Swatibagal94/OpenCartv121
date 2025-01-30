@@ -1,0 +1,484 @@
+19:19:20.300 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+19:19:21.832 [main] INFO  - Clicked on MyAccount Link... 
+19:19:23.528 [main] INFO  - Clicked on Register Link.... 
+19:19:23.637 [main] INFO  - Provding customers details....
+19:19:31.728 [main] INFO  - Validating expected message
+19:19:31.857 [main] INFO  - *******Finished TC001 test ************
+22:17:18.930 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+22:17:21.014 [main] INFO  - Clicked on MyAccount Link... 
+22:17:23.026 [main] INFO  - Clicked on Register Link.... 
+22:17:23.059 [main] INFO  - Provding customers details....
+22:17:33.061 [main] INFO  - Validating expected message
+22:17:33.185 [main] INFO  - *******Finished TC001 test ************
+22:21:04.120 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+22:21:06.669 [main] INFO  - Clicked on MyAccount Link... 
+22:21:08.880 [main] INFO  - Clicked on Register Link.... 
+22:21:08.906 [main] INFO  - Provding customers details....
+22:21:19.525 [main] INFO  - Validating expected message
+22:24:45.593 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+22:24:47.259 [main] INFO  - Clicked on MyAccount Link... 
+22:24:49.048 [main] INFO  - Clicked on Register Link.... 
+22:24:49.082 [main] INFO  - Provding customers details....
+22:24:57.096 [main] INFO  - Validating expected message
+22:32:46.784 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+22:32:47.314 [main] INFO  - Clicked on MyAccount Link... 
+22:32:48.241 [main] INFO  - Clicked on Register Link.... 
+22:32:48.264 [main] INFO  - Provding customers details....
+22:32:54.872 [main] INFO  - Validating expected message
+22:32:54.910 [main] ERROR - Test failed...
+22:32:54.910 [main] DEBUG - Debug logs...
+22:32:54.912 [main] INFO  - *******Finished TC001 test ************
+23:10:10.013 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+23:10:12.486 [main] INFO  - Clicked on MyAccount Link... 
+23:10:15.353 [main] INFO  - Clicked on Register Link.... 
+23:10:15.757 [main] INFO  - Provding customers details....
+23:10:23.241 [main] INFO  - Validating expected message
+23:10:23.373 [main] ERROR - Test failed...
+23:10:23.373 [main] DEBUG - Debug logs...
+23:10:23.377 [main] INFO  - *******Finished TC001 test ************
+23:13:36.293 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+23:13:40.666 [main] INFO  - Clicked on MyAccount Link... 
+23:13:44.678 [main] INFO  - Clicked on Register Link.... 
+23:13:44.682 [main] INFO  - Provding customers details....
+23:14:00.227 [main] INFO  - Validating expected message
+23:14:00.831 [main] ERROR - Test failed...
+23:14:00.831 [main] DEBUG - Debug logs...
+23:14:00.831 [main] INFO  - *******Finished TC001 test ************
+23:15:12.638 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+23:15:12.816 [main] INFO  - Clicked on MyAccount Link... 
+23:15:13.811 [main] INFO  - Clicked on Register Link.... 
+23:15:13.812 [main] INFO  - Provding customers details....
+23:15:20.347 [main] INFO  - Validating expected message
+23:15:20.381 [main] ERROR - Test failed...
+23:15:20.381 [main] DEBUG - Debug logs...
+23:15:20.382 [main] INFO  - *******Finished TC001 test ************
+23:28:18.232 [TestNG-tests-1] INFO  - ******Starting TC001_AccountRegistrationPage ****
+23:28:20.024 [TestNG-tests-1] INFO  - Clicked on MyAccount Link... 
+23:28:21.265 [TestNG-tests-1] INFO  - Clicked on Register Link.... 
+23:28:21.322 [TestNG-tests-1] INFO  - Provding customers details....
+23:28:28.114 [TestNG-tests-1] INFO  - Validating expected message
+23:28:28.662 [TestNG-tests-1] ERROR - Test failed...
+23:28:28.662 [TestNG-tests-1] DEBUG - Debug logs...
+23:28:28.664 [TestNG-tests-1] INFO  - *******Finished TC001 test ************
+19:05:58.976 [TestNG-tests-1] INFO  - ******Starting TC001_AccountRegistrationPage ****
+19:06:00.088 [TestNG-tests-1] INFO  - Clicked on MyAccount Link... 
+19:06:01.719 [TestNG-tests-1] INFO  - Clicked on Register Link.... 
+19:06:01.738 [TestNG-tests-1] INFO  - Provding customers details....
+19:06:11.777 [TestNG-tests-1] INFO  - Validating expected message
+19:06:11.888 [TestNG-tests-1] ERROR - Test failed...
+19:06:11.888 [TestNG-tests-1] DEBUG - Debug logs...
+19:06:11.909 [TestNG-tests-1] INFO  - *******Finished TC001 test ************
+23:25:08.165 [main] INFO  - ****Stating TC002 LoginTest
+23:25:11.682 [main] INFO  - Provding Login details.....
+23:35:08.859 [main] INFO  - ****Stating TC002 LoginTest
+23:35:08.859 [main] INFO  - ****Stating TC002 LoginTest
+23:35:17.389 [main] INFO  - Provding Login details.....
+23:35:17.451 [main] INFO  - Provding Login details.....
+19:22:14.672 [main] INFO  - ****Stating TC002 LoginTest
+19:22:16.389 [main] INFO  - Provding Login details.....
+19:23:35.110 [main] INFO  - ****Stating TC002 LoginTest
+19:23:45.419 [main] INFO  - Provding Login details.....
+17:54:19.167 [main] INFO  - ****Stating TC002 LoginTest
+17:54:22.596 [main] INFO  - Provding Login details.....
+18:01:54.133 [main] INFO  - ****Stating TC002 LoginTest
+18:01:59.434 [main] INFO  - Provding Login details.....
+20:25:45.885 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:45.953 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:45.963 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:51.241 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+20:25:51.268 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:25:51.270 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:25:51.309 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:25:51.310 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:25:51.313 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:25:51.411 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+20:25:51.413 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:25:51.423 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+20:25:51.425 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:25:51.426 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+20:25:51.428 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:25:51.433 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+20:25:51.435 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+20:25:51.627 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+20:25:51.667 [main] TRACE - Resolving type for handle themefd26doctype
+20:25:52.429 [main] TRACE - Resolving type for handle sstf81fdoctype
+20:25:52.493 [main] TRACE - Resolving type for handle ctsst44f3type
+20:25:52.570 [main] TRACE - Resolving type for handle ctrsta472type
+20:25:52.925 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+20:25:52.981 [main] TRACE - Resolving type for handle ctstylesheet4257type
+20:25:53.015 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+20:25:53.032 [main] TRACE - Resolving type for handle ctnumfmt3870type
+20:25:53.036 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+20:25:53.041 [main] TRACE - Resolving type for handle stxstringf179type
+20:25:53.050 [main] TRACE - Resolving type for handle ctfonts6623type
+20:25:53.062 [main] TRACE - Resolving type for handle ctfont14d8type
+20:25:53.156 [main] TRACE - Resolving type for handle ctfills2c6ftype
+20:25:53.165 [main] TRACE - Resolving type for handle ctfill550ctype
+20:25:53.240 [main] TRACE - Resolving type for handle ctborders0d66type
+20:25:53.273 [main] TRACE - Resolving type for handle ctborderf935type
+20:25:53.294 [main] TRACE - Resolving type for handle ctcellxfs1322type
+20:25:53.305 [main] TRACE - Resolving type for handle ctxf97f7type
+20:25:53.318 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+20:25:53.385 [main] TRACE - Resolving type for handle cttablestyles872ftype
+20:25:53.396 [main] TRACE - Resolving type for handle workbookec17doctype
+20:25:53.436 [main] TRACE - Resolving type for handle ctworkbook83c3type
+20:25:53.510 [main] TRACE - Resolving type for handle ctsheets49fdtype
+20:25:53.514 [main] TRACE - Resolving type for handle ctsheet4dbetype
+20:25:53.518 [main] TRACE - Resolving type for handle strelationshipid1e94type
+20:25:53.533 [main] TRACE - Resolving type for handle worksheetf539doctype
+20:25:53.542 [main] TRACE - Resolving type for handle ctworksheet530dtype
+20:25:53.561 [main] TRACE - Resolving type for handle ctcols627ctype
+20:25:53.574 [main] TRACE - Resolving type for handle ctcola95ftype
+20:25:53.634 [main] TRACE - Resolving type for handle ctsheetdata8408type
+20:25:53.706 [main] TRACE - Resolving type for handle ctrowdd39type
+20:25:53.717 [main] TRACE - Resolving type for handle ctcell842btype
+20:25:53.792 [main] TRACE - Resolving type for handle stcellrefe4e0type
+20:25:53.827 [main] TRACE - Resolving type for handle cthyperlinks6416type
+20:25:53.832 [main] TRACE - Resolving type for handle cthyperlink0c85type
+20:25:53.920 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:53.923 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:53.925 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:53.975 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:53.978 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:53.980 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.038 [main] TRACE - Resolving type for handle stcelltypebf95type
+20:25:54.089 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.090 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.093 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.146 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.151 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.152 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.193 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.194 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.196 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.242 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.243 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.245 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.297 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.302 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.304 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.357 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.359 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.360 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.403 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.404 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.405 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.438 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.439 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.440 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.468 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.469 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.470 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.497 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.498 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.499 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.532 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.532 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.533 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.556 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.557 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.557 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.588 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.589 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.590 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.638 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.639 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.641 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.677 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.679 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.680 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.712 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.713 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.714 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.752 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+20:25:54.754 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+20:25:54.755 [main] DEBUG - Parsing relationship: /_rels/.rels
+20:25:54.802 [main] INFO  - **** Starting TC_003_LoginDDT *****
+20:26:10.985 [main] INFO  - **** Starting TC_003_LoginDDT *****
+20:26:15.711 [main] INFO  - **** Starting TC_003_LoginDDT *****
+20:26:17.926 [main] INFO  - **** Starting TC_003_LoginDDT *****
+20:26:29.407 [main] INFO  - **** Finished TC_003_LoginDDT *****
+20:26:29.410 [main] INFO  - **** Starting TC_003_LoginDDT *****
+20:26:31.286 [main] INFO  - **** Finished TC_003_LoginDDT *****
+20:26:31.307 [main] INFO  - **** Starting TC_003_LoginDDT *****
+20:26:33.744 [main] INFO  - **** Finished TC_003_LoginDDT *****
+21:42:11.273 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+21:42:15.630 [main] INFO  - Clicked on MyAccount Link... 
+21:42:18.644 [main] INFO  - Clicked on Register Link.... 
+21:42:18.708 [main] INFO  - Provding customers details....
+21:42:29.326 [main] INFO  - Validating expected message
+21:42:29.541 [main] ERROR - Test failed...
+21:42:29.541 [main] DEBUG - Debug logs...
+21:42:29.599 [main] INFO  - *******Finished TC001 test ************
+21:42:47.995 [main] INFO  - ****Stating TC002 LoginTest
+21:42:48.713 [main] INFO  - Provding Login details.....
+21:57:06.974 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+21:57:08.139 [main] INFO  - Clicked on MyAccount Link... 
+21:57:09.786 [main] INFO  - Clicked on Register Link.... 
+21:57:09.805 [main] INFO  - Provding customers details....
+21:57:15.985 [main] INFO  - Validating expected message
+21:57:16.169 [main] ERROR - Test failed...
+21:57:16.169 [main] DEBUG - Debug logs...
+21:57:16.213 [main] INFO  - *******Finished TC001 test ************
+21:57:29.872 [main] INFO  - ****Stating TC002 LoginTest
+21:57:30.647 [main] INFO  - Provding Login details.....
+23:05:02.830 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+23:05:05.841 [main] INFO  - Clicked on MyAccount Link... 
+23:05:13.495 [main] INFO  - Clicked on Register Link.... 
+23:05:13.543 [main] INFO  - Provding customers details....
+23:05:21.413 [main] INFO  - Validating expected message
+23:05:21.597 [main] ERROR - Test failed...
+23:05:21.597 [main] DEBUG - Debug logs...
+23:05:21.628 [main] INFO  - *******Finished TC001 test ************
+23:05:43.492 [main] INFO  - ****Stating TC002 LoginTest
+23:05:45.086 [main] INFO  - Provding Login details.....
+18:27:39.593 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:39.630 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:39.633 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:41.152 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:27:41.177 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:27:41.178 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:27:41.198 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:27:41.199 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:27:41.201 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:27:41.272 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+18:27:41.275 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:27:41.290 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+18:27:41.294 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:27:41.296 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+18:27:41.298 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:27:41.300 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+18:27:41.302 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+18:27:42.045 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+18:27:43.559 [main] TRACE - Resolving type for handle themefd26doctype
+18:27:44.800 [main] TRACE - Resolving type for handle sstf81fdoctype
+18:27:44.863 [main] TRACE - Resolving type for handle ctsst44f3type
+18:27:44.974 [main] TRACE - Resolving type for handle ctrsta472type
+18:27:45.052 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+18:27:45.106 [main] TRACE - Resolving type for handle ctstylesheet4257type
+18:27:45.118 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+18:27:45.153 [main] TRACE - Resolving type for handle ctnumfmt3870type
+18:27:45.156 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+18:27:45.159 [main] TRACE - Resolving type for handle stxstringf179type
+18:27:45.183 [main] TRACE - Resolving type for handle ctfonts6623type
+18:27:45.193 [main] TRACE - Resolving type for handle ctfont14d8type
+18:27:45.242 [main] TRACE - Resolving type for handle ctfills2c6ftype
+18:27:45.262 [main] TRACE - Resolving type for handle ctfill550ctype
+18:27:45.268 [main] TRACE - Resolving type for handle ctborders0d66type
+18:27:45.274 [main] TRACE - Resolving type for handle ctborderf935type
+18:27:45.299 [main] TRACE - Resolving type for handle ctcellxfs1322type
+18:27:45.305 [main] TRACE - Resolving type for handle ctxf97f7type
+18:27:45.321 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+18:27:45.343 [main] TRACE - Resolving type for handle cttablestyles872ftype
+18:27:45.350 [main] TRACE - Resolving type for handle workbookec17doctype
+18:27:45.367 [main] TRACE - Resolving type for handle ctworkbook83c3type
+18:27:45.409 [main] TRACE - Resolving type for handle ctsheets49fdtype
+18:27:45.413 [main] TRACE - Resolving type for handle ctsheet4dbetype
+18:27:45.416 [main] TRACE - Resolving type for handle strelationshipid1e94type
+18:27:45.441 [main] TRACE - Resolving type for handle worksheetf539doctype
+18:27:45.457 [main] TRACE - Resolving type for handle ctworksheet530dtype
+18:27:45.504 [main] TRACE - Resolving type for handle ctcols627ctype
+18:27:45.525 [main] TRACE - Resolving type for handle ctcola95ftype
+18:27:45.586 [main] TRACE - Resolving type for handle ctsheetdata8408type
+18:27:45.609 [main] TRACE - Resolving type for handle ctrowdd39type
+18:27:45.638 [main] TRACE - Resolving type for handle ctcell842btype
+18:27:45.675 [main] TRACE - Resolving type for handle stcellrefe4e0type
+18:27:45.698 [main] TRACE - Resolving type for handle cthyperlinks6416type
+18:27:45.718 [main] TRACE - Resolving type for handle cthyperlink0c85type
+18:27:45.763 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:45.765 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:45.768 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:45.823 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:45.825 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:45.828 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:45.875 [main] TRACE - Resolving type for handle stcelltypebf95type
+18:27:45.904 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:45.907 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:45.910 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:45.963 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:45.964 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:45.965 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.000 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.001 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.002 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.043 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.044 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.046 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.077 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.079 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.081 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.115 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.116 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.117 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.148 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.149 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.150 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.180 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.181 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.182 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.214 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.216 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.218 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.276 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.278 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.280 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.333 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.334 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.336 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.380 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.382 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.383 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.419 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.424 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.425 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.465 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.466 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.467 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.499 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.500 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.502 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.542 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.543 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.544 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.581 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+18:27:46.583 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+18:27:46.585 [main] DEBUG - Parsing relationship: /_rels/.rels
+18:27:46.739 [main] INFO  - **** Starting TC_003_LoginDDT *****
+18:28:04.671 [main] INFO  - **** Starting TC_003_LoginDDT *****
+18:28:08.232 [main] INFO  - **** Starting TC_003_LoginDDT *****
+18:28:15.500 [main] INFO  - **** Starting TC_003_LoginDDT *****
+18:28:28.089 [main] INFO  - **** Finished TC_003_LoginDDT *****
+18:28:28.099 [main] INFO  - **** Starting TC_003_LoginDDT *****
+18:28:30.919 [main] INFO  - **** Finished TC_003_LoginDDT *****
+18:28:30.935 [main] INFO  - **** Starting TC_003_LoginDDT *****
+18:28:34.086 [main] INFO  - **** Finished TC_003_LoginDDT *****
+22:59:31.176 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:31.219 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:31.227 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:34.244 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+22:59:34.317 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:59:34.319 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:59:34.351 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:59:34.353 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:59:34.357 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:59:34.445 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+22:59:34.448 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:59:34.465 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+22:59:34.470 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:59:34.473 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+22:59:34.477 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:59:34.479 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+22:59:34.481 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+22:59:34.624 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+22:59:34.664 [main] TRACE - Resolving type for handle themefd26doctype
+22:59:35.487 [main] TRACE - Resolving type for handle sstf81fdoctype
+22:59:35.589 [main] TRACE - Resolving type for handle ctsst44f3type
+22:59:35.917 [main] TRACE - Resolving type for handle ctrsta472type
+22:59:36.077 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+22:59:36.143 [main] TRACE - Resolving type for handle ctstylesheet4257type
+22:59:36.210 [main] TRACE - Resolving type for handle ctnumfmtsb58btype
+22:59:36.306 [main] TRACE - Resolving type for handle ctnumfmt3870type
+22:59:36.310 [main] TRACE - Resolving type for handle stnumfmtid76fbtype
+22:59:36.346 [main] TRACE - Resolving type for handle stxstringf179type
+22:59:36.401 [main] TRACE - Resolving type for handle ctfonts6623type
+22:59:36.530 [main] TRACE - Resolving type for handle ctfont14d8type
+22:59:36.600 [main] TRACE - Resolving type for handle ctfills2c6ftype
+22:59:36.634 [main] TRACE - Resolving type for handle ctfill550ctype
+22:59:36.674 [main] TRACE - Resolving type for handle ctborders0d66type
+22:59:36.793 [main] TRACE - Resolving type for handle ctborderf935type
+22:59:36.829 [main] TRACE - Resolving type for handle ctcellxfs1322type
+22:59:36.899 [main] TRACE - Resolving type for handle ctxf97f7type
+22:59:36.927 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+22:59:36.998 [main] TRACE - Resolving type for handle cttablestyles872ftype
+22:59:37.036 [main] TRACE - Resolving type for handle workbookec17doctype
+22:59:37.091 [main] TRACE - Resolving type for handle ctworkbook83c3type
+22:59:37.180 [main] TRACE - Resolving type for handle ctsheets49fdtype
+22:59:37.214 [main] TRACE - Resolving type for handle ctsheet4dbetype
+22:59:37.237 [main] TRACE - Resolving type for handle strelationshipid1e94type
+22:59:37.253 [main] TRACE - Resolving type for handle worksheetf539doctype
+22:59:37.284 [main] TRACE - Resolving type for handle ctworksheet530dtype
+22:59:37.351 [main] TRACE - Resolving type for handle ctcols627ctype
+22:59:37.384 [main] TRACE - Resolving type for handle ctcola95ftype
+22:59:37.571 [main] TRACE - Resolving type for handle ctsheetdata8408type
+22:59:37.758 [main] TRACE - Resolving type for handle ctrowdd39type
+22:59:37.829 [main] TRACE - Resolving type for handle ctcell842btype
+22:59:38.032 [main] TRACE - Resolving type for handle stcellrefe4e0type
+22:59:38.173 [main] TRACE - Resolving type for handle cthyperlinks6416type
+22:59:38.223 [main] TRACE - Resolving type for handle cthyperlink0c85type
+22:59:38.382 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.385 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.388 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:38.474 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.476 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.478 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:38.517 [main] TRACE - Resolving type for handle stcelltypebf95type
+22:59:38.551 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.554 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.556 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:38.628 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.630 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.631 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:38.679 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.680 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.683 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:38.757 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.759 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.761 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:38.834 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.840 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.842 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:38.919 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.920 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.922 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:38.979 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:38.981 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:38.982 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.033 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.035 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.036 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.090 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.091 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.093 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.146 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.148 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.149 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.190 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.192 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.193 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.237 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.240 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.242 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.281 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.282 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.284 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.332 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.334 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.335 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.364 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.365 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.366 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.396 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.397 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.399 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.447 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+22:59:39.448 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+22:59:39.450 [main] DEBUG - Parsing relationship: /_rels/.rels
+22:59:39.547 [main] INFO  - **** Starting TC_003_LoginDDT *****
+23:00:00.230 [main] INFO  - **** Starting TC_003_LoginDDT *****
+23:00:05.282 [main] INFO  - **** Starting TC_003_LoginDDT *****
+23:00:07.530 [main] INFO  - **** Starting TC_003_LoginDDT *****
+23:00:18.873 [main] INFO  - **** Finished TC_003_LoginDDT *****
+23:00:18.877 [main] INFO  - **** Starting TC_003_LoginDDT *****
+23:00:21.306 [main] INFO  - **** Finished TC_003_LoginDDT *****
+23:00:21.318 [main] INFO  - **** Starting TC_003_LoginDDT *****
+23:00:23.324 [main] INFO  - **** Finished TC_003_LoginDDT *****
+23:02:03.472 [main] INFO  - ******Starting TC001_AccountRegistrationPage ****
+23:02:03.703 [main] INFO  - Clicked on MyAccount Link... 
+23:02:04.443 [main] INFO  - Clicked on Register Link.... 
+23:02:04.557 [main] INFO  - Provding customers details....
+23:02:10.600 [main] INFO  - Validating expected message
+23:02:10.753 [main] ERROR - Test failed...
+23:02:10.753 [main] DEBUG - Debug logs...
+23:02:10.761 [main] INFO  - *******Finished TC001 test ************
+23:02:21.676 [main] INFO  - ****Stating TC002 LoginTest
+23:02:22.301 [main] INFO  - Provding Login details.....
